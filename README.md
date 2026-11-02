@@ -1,23 +1,14 @@
 
-Installation information
+CONCEPT
 =======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Inanam's Battle Bounds is a minecraft Addon for the mod of Cobblemon in the version for Neoforge. The mod adds a gimmick into pokemon battles where the trainer can jump into the battle and act, attacking, interacting and consuming items.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+The trainer can only do 1 action before entering a 3 turn cooldown, the trainer interruption happens during the move selection and does not count as the move, allowing your pokemon to still move after the trainer's action.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
+CURRENT STATE:
 ============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+This mod is not finished, the mechanics don't work and im currently looking for anyone to help me out.
 
 Additional Resources: 
 ==========
