@@ -1,0 +1,17 @@
+{
+  "itemGroup.inanamsbattlebonds": "Example Mod Tab",
+  "block.inanamsbattlebonds.example_block": "Example Block",
+  "item.inanamsbattlebonds.example_item": "Example Item",
+
+  "inanamsbattlebonds.configuration.title": "Inanam's Battlebonds Configs",
+  "inanamsbattlebonds.configuration.section.inanamsbattlebonds.common.toml": "Inanam's Battlebonds Configs",
+  "inanamsbattlebonds.configuration.section.inanamsbattlebonds.common.toml.title": "Inanam's Battlebonds Configs",
+  "inanamsbattlebonds.configuration.items": "Item List",
+  "inanamsbattlebonds.configuration.logDirtBlock": "Log Dirt Block",
+  "inanamsbattlebonds.configuration.magicNumberIntroduction": "Magic Number Text",
+  "inanamsbattlebonds.configuration.magicNumber": "Magic Number",
+
+  "battlebonds.intervention.attack": "%s attacked with their %s!",
+  "battlebonds.intervention.interact": "%s used their %s!",
+  "battlebonds.intervention.consume": "%s gave their %s to %s!"
+}
